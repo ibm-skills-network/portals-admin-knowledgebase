@@ -1,47 +1,97 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the Portal Admin Guide! This comprehensive guide will help you navigate and manage your learning portal effectively.
 
-## Getting Started
+## How to Access Administrative Settings
 
-Get started by **creating a new site**.
+To access the administrative settings in the learning portal:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+1. Click your profile picture icon in the top right corner of the screen
+2. Look for the 'Admin' option in the dropdown menu
+3. Click 'Admin' to access the admin dashboard
 
-### What you'll need
+Note: You must have manager privileges to see and access the Admin option.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Portal Settings Overview
 
-## Generate a new site
+The portal comes with a comprehensive set of configuration options including:
 
-Generate a new Docusaurus site using the **classic template**.
+- General site settings
+- User registration configuration
+- Header and footer customization
+- Visual styling options
+- Course and content management
+- Badge system configuration
+- And much more!
 
-The classic template will automatically be added to your project after you run the command:
+Explore the admin dashboard to discover all available configuration options.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Studio
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Studio is a powerful tool that enables you to create and edit your own courses. With Studio, you can:
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+- Create new courses from scratch
+- Modify existing courses
+- Design interactive learning experiences
+- Manage course content efficiently
 
-## Start your site
+## Getting Support
 
-Run the development server:
+### Need Help?
 
-```bash
-cd my-website
-npm run start
-```
+Our support system is here to assist you with any issues you encounter:
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+1. We help troubleshoot problems and escalate when necessary
+2. When you report an issue, we gather all relevant details
+3. We draft support tickets for your review
+4. Once approved, we submit the ticket to our support team
+5. We track the issue until resolution
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+### Contact Support
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+If you need assistance:
+
+1. Click the support tab in your portal
+2. Describe your issue in detail
+3. Our support team will review and respond promptly
+
+## Off-Topic Requests
+
+Please note that this guide focuses specifically on portal administration. For questions about other topics, please refer to the appropriate documentation or support channels. We're happy to redirect you to the right resources for non-portal related inquiries.
+
+## Detailed Administrative Features
+
+### Home Dashboard
+
+- View portal statistics
+- Track registrations, enrollments, completions, and certificates
+- Stay updated with the "What's new?" feed
+
+### Content Management
+
+- **Content Providers**: Manage Skills Network Catalog and other catalogs
+- **Learning Paths**: Create and manage learning paths
+- **Learning Path Groups**: Organize learning paths into groups
+- **Pages**: Customize home pages and create custom pages
+- **Events**: Schedule and manage events
+- **Competitions**: Create and oversee competitions
+
+### System Configuration
+
+- **Settings**: Configure site-wide settings
+- **Themes**: Customize portal appearance
+- **User Management**: Handle user access and licenses
+- **Legal**: Update terms of service and privacy notices
+- **System Management**: Manage backups and system services
+
+### Reporting and Monitoring
+
+- **Dashboards**: Create custom dashboards
+- **Reports**: Access enrollment, completion, and certificate reports
+- **Activity Log**: Monitor portal activity
+- **Developer Tools**: Manage API keys and integrations
