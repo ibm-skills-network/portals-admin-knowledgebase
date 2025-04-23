@@ -8,41 +8,12 @@ The Home Dashboard provides a comprehensive overview of your portal's performanc
 
 ## Key Metrics Overview
 
-### Registration Statistics
+You can see the following analytics and trends for the following metrics:
 
-- View total number of registrations
-- Track daily registration trends
-- Compare with previous periods:
-  - Yesterday
-  - Last 7 days
-  - Last 30 days
-  - Last 12 months
-  - Year to date
-- Monitor percentage changes with visual indicators (↑↓)
-
-### Enrollment Metrics
-
-- Track total course enrollments
-- Monitor daily enrollment activity
-- View comparative data across time periods
-- Analyze enrollment trends and patterns
-- Access detailed enrollment statistics
-
-### Completion Analytics
-
-- Monitor course completion rates
-- Track daily completion numbers
-- View historical completion data
-- Analyze completion trends
-- Access detailed completion reports
-
-### Certificate Tracking
-
-- Monitor certificate issuance
-- Track daily certificate generation
-- View certificate statistics over time
-- Access detailed certificate reports
-- Monitor certification trends
+- User Registration
+- User Enrollment
+- Course Completion
+- Certificates
 
 ## Quick Actions
 
@@ -105,11 +76,3 @@ The Home Dashboard provides a comprehensive overview of your portal's performanc
 - Access feature announcements
 - Track platform updates chronologically
 - Read detailed release notes
-
-## Profile Management
-
-- Access your profile settings
-- View administrative privileges
-- Update personal information
-- Manage account preferences
-- Configure notification settings
