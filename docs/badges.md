@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Badges
 
-The Badges section allows you to manage and configure achievement recognition for your learners.
+The Badges section allows you to manage and configure achievement recognition for your learners. These are marketing pages to promote the badges which can be issued on the site.
 
 ## Overview
 
@@ -12,7 +12,6 @@ The Badges section allows you to manage and configure achievement recognition fo
 - Create new badges
 - Edit existing badges
 - Delete outdated badges
-- Monitor badge assignments
 
 ## Badge Management
 
@@ -29,13 +28,4 @@ The Badges section allows you to manage and configure achievement recognition fo
 - Edit badge properties
 - Update badge criteria
 - Modify badge visuals
-- Archive old badges
-- Track badge statistics
-
-### Badge Assignment
-
-- Monitor badge distribution
-- Review achievement criteria
-- Track learner progress
-- Manage badge notifications
-- Generate badge reports
+- Delete old badges

@@ -6,6 +6,8 @@ sidebar_position: 11
 
 The AI Teaching Assistant provides automated support for course instruction and learner engagement.
 
+This assitant is **only** available when inside a course or guided project.
+
 ## Features
 
 ### Course Support
@@ -15,29 +17,20 @@ The AI Teaching Assistant provides automated support for course instruction and 
 - Explain complex concepts
 - Offer additional resources
 - Support multiple learning styles
+- Open tickets or contact support for resolving issues
 
 ### Interactive Learning
 
 - Facilitate discussions
-- Grade assignments
 - Provide instant feedback
 - Create practice exercises
-- Monitor student progress
 
 ## Configuration
 
+The AI Teaching Assistant can be configured for the entire Portal but you can also configure it separately for each individual course or guided project using the "AI Assitant" tab within a course.
+
 ### Assistant Settings
 
-- Configure AI responses
-- Set knowledge parameters
-- Adjust interaction style
-- Customize feedback types
-- Manage response times
-
-### Performance Tracking
-
-- Monitor assistance quality
-- Track response accuracy
-- Analyze student satisfaction
-- Generate usage reports
-- Review feedback metrics
+- Branding (name, logo, subtitle)
+- Enable/disable the advisor
+- Configure AI behavior (such as initial greeting)

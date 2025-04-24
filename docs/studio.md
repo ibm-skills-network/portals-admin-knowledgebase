@@ -2,9 +2,9 @@
 sidebar_position: 15
 ---
 
-# Studio
+# Skills Network Studio
 
-Studio is a powerful tool that enables administrators to create and manage course content directly within the portal.
+Skills Network Studio is a powerful tool that enables administrators to create and manage course content directly within the portal.
 
 ## Overview
 
@@ -20,7 +20,7 @@ Studio provides a comprehensive environment for:
 ### Course Creation
 
 - Start with a blank template
-- Import existing course content
+- Import existing course content supporting the Open edX OLX archive format
 - Use pre-built course structures
 - Configure course settings
 
@@ -41,6 +41,8 @@ Studio provides a comprehensive environment for:
 - Manage course versions
 
 ## Accessing Studio Content
+
+By default, Studio is only accessible to managers/admins on the Portal. Admins can grant access to specific people in the "Course Team" section within Studio.
 
 Created courses can be accessed through:
 

@@ -27,9 +27,3 @@ Track and manage all certificates issued through your portal. This report helps 
 ### Learning Path Completions
 
 Monitor how learners are progressing through structured learning paths. The report provides visibility into enrollment numbers, completion rates, and individual learner progress. You can track both overall learning path performance and individual learner journeys through each path.
-
-## Dashboard Management
-
-The portal allows you to customize your reporting experience through personalized dashboards. You can create new dashboards focused on specific metrics that matter to your organization, modify existing ones, or remove dashboards that are no longer needed.
-
-To add a new dashboard, use the "+ Add Dashboard" option in the Reports section. This allows you to configure specific metrics and visualizations that align with your reporting needs. Each dashboard can be customized to show relevant data and can be shared with appropriate stakeholders within your organization.

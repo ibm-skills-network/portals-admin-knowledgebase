@@ -16,4 +16,4 @@ You can easily browse the catalog using various filters such as tier, topic, dif
 
 ### Other Catalogs
 
-Beyond the Skills Network Catalog, your portal can integrate with third-party and custom catalogs. This includes content created in Studio and other external sources, giving you flexibility in building your learning ecosystem.
+Beyond the Skills Network Catalog, your portal can integrate with content you create, third-party content, and even custom catalogs. This includes content created in Studio and other external sources, giving you flexibility in building your learning ecosystem.

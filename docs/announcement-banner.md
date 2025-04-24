@@ -10,34 +10,18 @@ The Announcement Banner feature allows you to display important messages and not
 
 ### Message Settings
 
-- Create banner messages
 - Set banner text
 - Configure banner links
-- Choose banner position
-- Set display duration
 
 ### Visual Customization
 
 - Set background color
 - Configure text color
-- Adjust banner size
-- Set banner opacity
-- Choose banner style
+- Choose banner position (top or bottom)
 
 ## Banner Management
 
 ### Display Controls
 
 - Enable/disable banner
-- Schedule banner display
-- Set visibility rules
-- Configure user targeting
-- Manage multiple banners
-
-### Content Management
-
-- Update banner content
-- Schedule announcements
-- Manage message history
-- Track banner performance
-- Configure banner rotation
+- Set visibility rules (visible to everyone or only logged in learners)

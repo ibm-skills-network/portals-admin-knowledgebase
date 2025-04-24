@@ -13,8 +13,6 @@ The Developers section provides tools and documentation for integrating with and
 - Generate new API keys
 - Manage existing keys
 - Delete unused keys
-- Monitor API usage
-- Configure key permissions
 
 ### API Documentation
 
@@ -23,21 +21,3 @@ The Developers section provides tools and documentation for integrating with and
 - Review authentication methods
 - Explore available endpoints
 - Test API functionality
-
-## Integration
-
-### Portal Integration
-
-- Configure external services
-- Manage webhooks
-- Set up SSO integration
-- Configure LMS integration
-- Manage API endpoints
-
-### Development Tools
-
-- Access development resources
-- Review code examples
-- Test API endpoints
-- Monitor API performance
-- Debug integration issues

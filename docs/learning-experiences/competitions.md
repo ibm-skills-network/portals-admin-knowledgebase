@@ -35,16 +35,18 @@ To create a new competition, use the "Create Competition" button in the top righ
 - Define rules and guidelines
 - Establish judging criteria
 - Set timeframes and deadlines
-- Configure participant requirements
+- Configure submission requirements
+
+Once created, a web presence is set up for your competition that allows participants to view details, create teams, submit, and view their judging results.
 
 ## Managing Competitions
 
 For each competition, you can:
 
-- Track participant progress
 - Monitor submissions
 - Update competition details
-- View and manage results
-- Archive completed competitions
+- View and manage results in the leaderboard
+- Add mentors to assist with the competition
+- Use AI to assist with team building by matching partipants together based on their needs
 
 The competition interface provides a clean, organized way to manage educational challenges and encourage practical skill application among your learners.

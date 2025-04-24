@@ -13,8 +13,7 @@ The Events interface provides tools to:
 - Schedule and organize educational events
 - Track attendance and participation
 - Manage event registration
-- Send notifications and reminders
-- Archive past events
+- Allow learners to sign up for calendar reminders
 
 ## Event Types
 
@@ -32,8 +31,8 @@ When creating or managing an event, you can configure:
 
 - Event title and description
 - Date and time settings
-- Capacity and registration limits
-- Visibility settings (public or private)
+- RSVP requirements (such as lunch food choice)
+- Visibility settings (visible to anyone or only logged in learners)
 - Prerequisites or requirements
 - Resource materials and links
 
@@ -41,10 +40,7 @@ When creating or managing an event, you can configure:
 
 For each event, you can:
 
-- Track registration numbers
 - Monitor attendance
-- Collect feedback
 - Generate participation reports
-- Measure engagement metrics
 
 The events system integrates seamlessly with other portal features, allowing you to create comprehensive learning experiences that combine structured courses with live events and interactive sessions.

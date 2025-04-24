@@ -21,26 +21,23 @@ The Learners Management section provides tools for managing user access, permiss
 - View user information
 - Edit profile settings
 - Manage custom fields
-- Track learning progress
 - Configure profile visibility
 
 ## License Management
+
+Each portal may have a specific limit of licenses that can be used, this limit is displayed on the Learner Management page.
 
 ### License Overview
 
 - Monitor available licenses
 - Track license usage
 - Manage license allocation
-- Generate license reports
 - Configure license settings
 
 ### User Access
 
 - Grant user access
 - Revoke user privileges
-- Manage group permissions
-- Configure access levels
-- Track access history
 
 ## Enrollment Management
 
@@ -49,13 +46,10 @@ The Learners Management section provides tools for managing user access, permiss
 - Manage course registrations
 - Track enrollment status
 - Configure enrollment rules
-- Handle enrollment requests
 - Generate enrollment reports
 
 ### Learning Path Enrollment
 
 - Manage path assignments
 - Track progress
-- Configure completion rules
-- Handle enrollment requests
 - Monitor learner journey

@@ -42,7 +42,7 @@ Choose between two layout types:
 The content section allows you to:
 
 - Add different types of content blocks
-- Include text, images, and multimedia
+- Include text, images, or HTML
 - Embed learning path blocks
 - Arrange content dynamically
 - Remove or modify content blocks as needed

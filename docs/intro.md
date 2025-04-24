@@ -11,7 +11,7 @@ Welcome to the Portal Admin Guide! This comprehensive guide will help you naviga
 
 A Skills Network Portal is an online learning platform that provides access to content from the Skills Network and others catalogs. Think of it like a custom app store for learning - just as you get apps from the App Store or Google Play, a portal allows your organization to:
 
-- Access pre-built courses from the Skills Network Catalog
+- Access pre-built learning content from the Skills Network Catalog
 - Create and host your own custom courses
 - Build learning paths and journeys
 - Manage competitions and events
@@ -50,13 +50,12 @@ Explore the admin dashboard to discover all available configuration options.
 
 ## Customizing Your Portal
 
-The Portal Management Console (GLaDOS) provides powerful customization options to create a branded experience for your organization:
+The Portal Admin Management Console provides powerful customization options to create a branded experience for your organization:
 
 - Customize logos, menus, headers, and footers through an intuitive point-and-click interface
 - Advanced CSS customization for complete design control
 - Configure access controls and user management
-- Set up support systems and virtual assistants powered by IBM Watson
-- All customization options are available under the "Settings" menu
+- Set up and enable AI assistants
 
 ## Engaging Your Learners
 
@@ -64,7 +63,7 @@ Beyond traditional courses, the portal offers various ways to engage your team:
 
 - Create and manage events like workshops, mini-conferences, and team events
 - Organize hackathons and competitions to foster innovation
-- Use the Competition Management System to run professional internal events
+- Use the Competition Management System to run professional internal competitions or hackathons
 - Track participation and engagement metrics
 - Build a community of learners through interactive features
 

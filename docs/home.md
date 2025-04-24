@@ -13,22 +13,20 @@ You can see the following analytics and trends for the following metrics:
 - User Registration
 - User Enrollment
 - Course Completion
-- Certificates
+- Certificates Earned
 
 ## Quick Actions
 
-### Course Management
+### Learning Content Management
 
-- **Pick the courses you want**
+- **Pick the content you want for your learners**
   - Browse the Skills Network Catalog
-  - Install and update guided projects
-  - Manage course offerings
+  - Install and update courses, guided projects, learning paths, specializations, and professional certificates. (Note: specializations and professional certificates may not always be available to install)
   - View available updates
-  - Access course installation options
 
 ### Content Creation
 
-- **Create your own courses**
+- **Create your own content**
   - Access Studio directly
   - Create custom course content
   - Import external courses
@@ -38,8 +36,7 @@ You can see the following analytics and trends for the following metrics:
 
 - **Schedule an event**
   - Create new events
-  - Manage virtual classrooms
-  - Schedule conferences
+  - Schedule conferences, lunch & learns, hackathons, and more
   - Organize learning sessions
   - Plan educational activities
 

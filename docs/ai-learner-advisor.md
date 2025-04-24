@@ -26,18 +26,10 @@ The AI Learner Advisor provides intelligent guidance and support for learners in
 
 ## Configuration
 
+You can customize the AI Learner Advisor to suit your needs, style, and brand.
+
 ### Advisor Settings
 
-- Configure AI behavior
-- Set recommendation parameters
-- Adjust learning algorithms
-- Customize response types
-- Manage advisor interactions
-
-### Performance Monitoring
-
-- Track advisor effectiveness
-- Monitor learner engagement
-- Analyze recommendation success
-- Generate usage reports
-- Review learner feedback
+- Enable/disable the advisor
+- Configure AI behavior (such as initial greeting)
+- Branding (name and icon)
