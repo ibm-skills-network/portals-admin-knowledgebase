@@ -4,43 +4,32 @@ sidebar_position: 3
 
 # Reports
 
-The Reports section provides access to various default reports about course activities and learning path completions. Here you can find comprehensive data about your portal's educational metrics.
+The Reports section provides administrators with comprehensive insights into course activities and learning path completions across your portal. This centralized dashboard helps you monitor and analyze your portal's educational performance through various specialized reports.
 
 ## Available Reports
 
+### Course Feedback
+
+The course feedback report gives you visibility into learner satisfaction and course quality. You can view overall ratings distribution across your courses, read individual feedback comments, and track sentiment trends over time. The report includes filtering options to help you focus on specific courses or date ranges.
+
 ### Course Enrollments
 
-- Access detailed reports on course enrollment statistics
-- Track enrollment trends and patterns
-- Download enrollment data for analysis
+The course enrollments report provides a detailed view of how many learners are engaging with your courses. You can see total enrollment numbers for each course, track enrollment changes over time, and monitor version-specific enrollment data. The report includes filtering options by time periods (1 day to 1 year), skills, and topics, making it easy to analyze enrollment trends. You can also export this data as CSV for further analysis.
 
 ### Course Completions
 
-- View comprehensive course completion statistics
-- Monitor learner progress across courses
-- Export completion data for reporting
+This report offers detailed insights into how learners are progressing through your courses. You can track completion rates across different time periods, monitor trends, and identify your most successful courses. The report presents completion statistics with version tracking and date-based analytics to help you understand learning patterns.
 
 ### Course Certificates
 
-- Track all certificates issued through the portal
-- View certificate statistics and issuance patterns
-- Download certificate data for record-keeping
+Track and manage all certificates issued through your portal. This report helps you monitor certification trends and verify learner achievements. You can access historical certificate data and track certification patterns across different courses and time periods.
 
 ### Learning Path Completions
 
-- Monitor progress in learning path completions
-- View detailed statistics on learning path success rates
-- Export learning path completion data
+Monitor how learners are progressing through structured learning paths. The report provides visibility into enrollment numbers, completion rates, and individual learner progress. You can track both overall learning path performance and individual learner journeys through each path.
 
 ## Dashboard Management
 
-- Create custom dashboards for specific metrics
-- Delete or modify existing dashboards
-- Download reports from any dashboard you have access to
+The portal allows you to customize your reporting experience through personalized dashboards. You can create new dashboards focused on specific metrics that matter to your organization, modify existing ones, or remove dashboards that are no longer needed.
 
-### Adding New Dashboards
-
-1. Click the "+ Add Dashboard" button
-2. Configure dashboard settings and metrics
-3. Select desired data visualization options
-4. Save and publish your new dashboard
+To add a new dashboard, use the "+ Add Dashboard" option in the Reports section. This allows you to configure specific metrics and visualizations that align with your reporting needs. Each dashboard can be customized to show relevant data and can be shared with appropriate stakeholders within your organization.
