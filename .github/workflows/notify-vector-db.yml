@@ -1,4 +1,4 @@
-name: Notify Documentation Updates
+name: Notify Vector DB Update
 
 on:
   push:
